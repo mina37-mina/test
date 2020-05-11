@@ -1,3 +1,3 @@
-今日は晴れ
-いつもより暑い
-クーラーを入れた
+hello git!
+branch test!
+
